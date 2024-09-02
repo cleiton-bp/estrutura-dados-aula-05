@@ -86,17 +86,5 @@ public class Main {
 //        System.out.println(listaFuncionarios);
 //        BubbleFuncionario.ordemAlfabetica(listaFuncionarios);
 //        System.out.println(listaFuncionarios);
-
-        System.out.println("-------- exercicio 03 ------------");
-
-        // exercicio 3 - a
-
-
-        // exercicio 3 - a
-
-
-        // exercicio 3 - a
-
-
     }
 }
